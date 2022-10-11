@@ -14,6 +14,12 @@ body {
 
 }
 
+p.img {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
 @media only screen and (max-width: 640px) {
     body {
       margin-left: 1%;
